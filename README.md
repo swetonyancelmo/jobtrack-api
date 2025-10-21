@@ -307,7 +307,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 **Swetony Ancelmo**
 - GitHub: [Swetony Ancelmo](https://github.com/swetonyancelmo)
-- LinkedIn: [Swetony Ancelmo](www.linkedin.com/in/swetony-ancelmo)
+- LinkedIn: [Swetony Ancelmo](https://www.linkedin.com/in/swetony-ancelmo/?trk=opento_sprofile_details)
 
 ## 🙏 Agradecimentos
 
