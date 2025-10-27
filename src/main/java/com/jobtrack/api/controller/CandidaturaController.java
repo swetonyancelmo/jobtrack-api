@@ -11,10 +11,10 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.stream.Collector;
 
 @RestController
 @RequestMapping("/api/candidaturas")
+@CrossOrigin(origins = "http://localhost:5173")
 public class CandidaturaController {
 
     @Autowired
